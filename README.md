@@ -1,1 +1,1 @@
-# ECG-using-TinyM
+# ECG-using-TinyML
