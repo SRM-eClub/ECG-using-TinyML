@@ -1,1 +1,1 @@
-# ECG-using-Ti
+# ECG-using-Tin
