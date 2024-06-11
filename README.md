@@ -1,1 +1,1 @@
-# ECG-using-Tin
+# ECG-using-Tiny
